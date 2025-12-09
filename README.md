@@ -6,7 +6,7 @@
 ###### development 
 ***software development life cycle has 6 major parts which are:***  
 - anlysis phase
-- design phase. 
+- design phase.  
 ordered list
 1. development
 2. testing
