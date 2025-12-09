@@ -13,5 +13,11 @@ ordered list
 1. development
 2. testing
 3. deploying
-4. maintainance.  The traditional `hello world!` code
+4. maintainance.
+The traditional `hello world!` code.
+To run my project follow the following steps ```cdm
+ git init --in the folder to choose to work on git clone <url> -- to clone my repo
+```javascript
+console.log ("Hello world !")
+```
   
