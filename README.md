@@ -3,6 +3,6 @@
 ### back end 
 #### API's
 ##### Database 
-###### develop 
+###### development 
 software development life cycle has 6 major parts which are:
   anlysis phase
