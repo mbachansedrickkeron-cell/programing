@@ -15,8 +15,8 @@ ordered list
 3. deploying
 4. maintainance.
 The traditional `hello world!` code.  
-To run my project follow the following steps ```cdm
- git init --in the folder to choose.
+To run my project follow the following steps ```cmd  
+ git init --in the folder to choose.  
  To work on git clone <url> -- to clone my repo
 ```.
 This will run the code bellow
