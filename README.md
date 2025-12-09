@@ -13,6 +13,5 @@ ordered list
 1. development
 2. testing
 3. deploying
-4. maintainance.  
-The traditional `hello world!` code
+4. maintainance.  The traditional `hello world!` code
   
